@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://henorch.github.io/csb-e7dbo/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://henorch.github.io/csb-e7dbo/static/js/main.93aaff83.chunk.js",
+    "main.js.map": "https://henorch.github.io/csb-e7dbo/static/js/main.93aaff83.chunk.js.map",
+    "runtime-main.js": "https://henorch.github.io/csb-e7dbo/static/js/runtime-main.a74eae71.js",
+    "runtime-main.js.map": "https://henorch.github.io/csb-e7dbo/static/js/runtime-main.a74eae71.js.map",
+    "static/js/2.6d13bec1.chunk.js": "https://henorch.github.io/csb-e7dbo/static/js/2.6d13bec1.chunk.js",
+    "static/js/2.6d13bec1.chunk.js.map": "https://henorch.github.io/csb-e7dbo/static/js/2.6d13bec1.chunk.js.map",
+    "index.html": "https://henorch.github.io/csb-e7dbo/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://henorch.github.io/csb-e7dbo/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6d13bec1.chunk.js.LICENSE.txt": "https://henorch.github.io/csb-e7dbo/static/js/2.6d13bec1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a74eae71.js",
+    "static/js/2.6d13bec1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.93aaff83.chunk.js"
+  ]
+}
